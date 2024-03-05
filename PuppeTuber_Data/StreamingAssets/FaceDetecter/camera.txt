@@ -1,0 +1,4 @@
+OBS Virtual Camera
+ 1920 *  1080  30.0fps
+ 1920 *  1080  30.0fps
+ 1920 *  1080  30.0fps
